@@ -1,0 +1,124 @@
+{
+  "countries": [
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "India"
+    },
+
+    { "name": "United States" },
+    { "name": "Canada" },
+    { "name": "United Kingdom" },
+    { "name": "Australia" },
+    { "name": "Germany" },
+    { "name": "France" },
+    { "name": "Japan" },
+    { "name": "China" },
+    { "name": "Brazil" },
+    { "name": "India" },
+    { "name": "South Korea" },
+    { "name": "Russia" },
+    { "name": "Mexico" },
+    { "name": "Italy" },
+    { "name": "Spain" },
+    { "name": "Netherlands" },
+    { "name": "Sweden" },
+    { "name": "Switzerland" },
+    { "name": "Norway" },
+    { "name": "Denmark" },
+    { "name": "Finland" },
+    { "name": "New Zealand" },
+    { "name": "Singapore" },
+    { "name": "Austria" },
+    { "name": "Belgium" },
+    { "name": "Ireland" },
+    { "name": "Portugal" },
+    { "name": "Poland" },
+    { "name": "Turkey" },
+    { "name": "Greece" },
+    { "name": "South Africa" },
+    { "name": "Argentina" },
+    { "name": "Chile" },
+    { "name": "Colombia" },
+    { "name": "Peru" },
+    { "name": "Egypt" },
+    { "name": "Israel" },
+    { "name": "Saudi Arabia" },
+    { "name": "United Arab Emirates" },
+    { "name": "Qatar" },
+    { "name": "Kuwait" },
+    { "name": "Iraq" },
+    { "name": "Iran" },
+    { "name": "Pakistan" },
+    { "name": "Bangladesh" },
+    { "name": "Indonesia" },
+    { "name": "Malaysia" },
+    { "name": "Thailand" },
+    { "name": "Vietnam" },
+    { "name": "Philippines" },
+    { "name": "South Africa" },
+    { "name": "Nigeria" },
+    { "name": "Kenya" },
+    { "name": "Ethiopia" },
+    { "name": "Ghana" },
+    { "name": "Uganda" },
+    { "name": "Tanzania" },
+    { "name": "Morocco" },
+    { "name": "Algeria" },
+    { "name": "Tunisia" },
+    { "name": "Libya" },
+    { "name": "Cameroon" },
+    { "name": "Niger" },
+    { "name": "Mali" },
+    { "name": "Senegal" },
+    { "name": "Cote d'Ivoire" },
+    { "name": "Sierra Leone" },
+    { "name": "Liberia" },
+    { "name": "Mauritania" },
+    { "name": "Sudan" },
+    { "name": "Somalia" },
+    { "name": "Eritrea" },
+    { "name": "Djibouti" },
+    { "name": "Zimbabwe" },
+    { "name": "Zambia" },
+    { "name": "Botswana" },
+    { "name": "Namibia" },
+    { "name": "Mozambique" },
+    { "name": "Madagascar" },
+    { "name": "Angola" },
+    { "name": "Malawi" },
+    { "name": "Lesotho" },
+    { "name": "Swaziland" },
+    { "name": "Burundi" },
+    { "name": "Rwanda" },
+    { "name": "Uganda" },
+    { "name": "Tanzania" },
+    { "name": "Kenya" },
+    { "name": "somalia" }
+  ]
+}
